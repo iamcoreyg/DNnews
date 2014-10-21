@@ -395,6 +395,7 @@
 				0F8625BD19F59FAA00995973 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0F8625BE19F59FAA00995973 /* Build configuration list for PBXNativeTarget "designcode-1Tests" */ = {
 			isa = XCConfigurationList;
@@ -403,6 +404,7 @@
 				0F8625C019F59FAA00995973 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
